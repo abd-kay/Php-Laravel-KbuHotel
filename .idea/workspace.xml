@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+
+    <list default="true" id="70e97b46-ec3a-4337-9c0b-bd8a8a0aa572" name="Default Changelist" comment="User Role management">
+      <change afterPath="$PROJECT_DIR$/public/assets/css/hotel-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/demo/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/dist/css/hotel-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/dist/js/hotel-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/dist/js/hotel-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/js/hotel-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_mq.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/hotel-datepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/css/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/css/hotel-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/js/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/js/fecha.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/js/hotel-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/hotels/Dolor ratione in qua/Iste delectus nulla/1611167791.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/hotels/Ipsum culpa Nam of/NO-14/1611169284.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/hotels/Ipsum culpa Nam of/NO-14/1611169300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/hotel-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/index2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Reservation.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Reservation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Room.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Room.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/_sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/_sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/room_detail.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/room_detail.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/user/user_reservations.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/user/user_reservations.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/base.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/base.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/SalehKhaled7/Hotel_reservation_laravel" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/league/fractal" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-html" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-buttons" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-editor" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-fractal" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kQZnckmEJuz3I6PEtQHXqrgYFn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/home" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\home" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\home\user" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\admin" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\layouts" />
+    </key>
+
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\home" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\storage\app\public" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\storage\app" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\storage" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\storage\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\home" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\home\user" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\admin" />
+      <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\layouts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e97b46-ec3a-4337-9c0b-bd8a8a0aa572" name="Default Changelist" comment="" />
+      <created>1605634943848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605634943848</updated>
+      <workItem from="1605634944895" duration="986000" />
+      <workItem from="1605636852003" duration="1053000" />
+      <workItem from="1605808804405" duration="1723000" />
+      <workItem from="1606307998261" duration="8117000" />
+      <workItem from="1606403475034" duration="2033000" />
+      <workItem from="1606463832451" duration="9025000" />
+      <workItem from="1606473300450" duration="566000" />
+      <workItem from="1606473877870" duration="1980000" />
+      <workItem from="1606743860588" duration="159000" />
+      <workItem from="1606904966205" duration="141000" />
+      <workItem from="1606922828606" duration="5152000" />
+      <workItem from="1607019369814" duration="858000" />
+      <workItem from="1608227972149" duration="686000" />
+      <workItem from="1608561451901" duration="7611000" />
+      <workItem from="1608838222814" duration="6857000" />
+      <workItem from="1608917181972" duration="14234000" />
+      <workItem from="1608963131357" duration="17266000" />
+      <workItem from="1608989262787" duration="8898000" />
+      <workItem from="1609259142277" duration="13325000" />
+      <workItem from="1609398731897" duration="9550000" />
+      <workItem from="1609514023153" duration="14090000" />
+      <workItem from="1609624024056" duration="1316000" />
+      <workItem from="1609666757491" duration="12135000" />
+      <workItem from="1609686742609" duration="15549000" />
+      <workItem from="1609745258856" duration="3989000" />
+      <workItem from="1609840895849" duration="23876000" />
+      <workItem from="1609974805821" duration="9417000" />
+      <workItem from="1610044804872" duration="687000" />
+      <workItem from="1610057013650" duration="1341000" />
+      <workItem from="1610117543220" duration="23140000" />
+      <workItem from="1610170162878" duration="35281000" />
+      <workItem from="1610223491753" duration="4054000" />
+      <workItem from="1610294675162" duration="10766000" />
+      <workItem from="1610341351094" duration="8135000" />
+      <workItem from="1610391492618" duration="19523000" />
+      <workItem from="1610483687821" duration="17389000" />
+      <workItem from="1610544777669" duration="2671000" />
+      <workItem from="1610549559503" duration="9933000" />
+      <workItem from="1610835870805" duration="6467000" />
+      <workItem from="1610882640285" duration="6301000" />
+      <workItem from="1610902676471" duration="13096000" />
+      <workItem from="1610927490306" duration="9140000" />
+      <workItem from="1610981784908" duration="3359000" />
+      <workItem from="1610993642497" duration="5329000" />
+      <workItem from="1611007938695" duration="1181000" />
+      <workItem from="1611062916336" duration="1600000" />
+      <workItem from="1611069290933" duration="4067000" />
+      <workItem from="1611151382233" duration="8000" />
+
+      <workItem from="1611152586059" duration="20004000" />
+      <workItem from="1611186529243" duration="8607000" />
+
+    </task>
+    <task id="LOCAL-00001" summary="integrating bootstrap template into laravel project">
+      <created>1606471571832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606471571832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="integrating bootstrap template into laravel project">
+      <created>1606471743088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606471743088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="integrating bootstrap template into laravel project">
+      <created>1606473445974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606473445974</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update 1.0">
+      <created>1606474868455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606474868455</updated>
+    </task>
+    <task id="LOCAL-00005" summary="integrating admin template into the project">
+      <created>1608569034715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608569034715</updated>
+    </task>
+    <task id="LOCAL-00006" summary="admin login / auth">
+      <created>1608844961177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608844961177</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Category model added, retrieve categories from database and list them">
+      <created>1608932904199</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608932904199</updated>
+    </task>
+    <task id="LOCAL-00008" summary="admin now can add and remove categories">
+      <created>1608979930554</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608979930555</updated>
+    </task>
+    <task id="LOCAL-00009" summary="category update/edit added">
+      <created>1608997632188</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608997632189</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hotel model added. admin now can add,update,delete hotels">
+      <created>1609272359560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609272359560</updated>
+    </task>
+    <task id="LOCAL-00011" summary="rich text editor added for detail fields in hotel add/edit">
+      <created>1609402103863</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609402103863</updated>
+    </task>
+    <task id="LOCAL-00012" summary="room model added">
+      <created>1609521641428</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609521641428</updated>
+    </task>
+    <task id="LOCAL-00013" summary="room CRUD added">
+      <created>1609534125988</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609534125988</updated>
+    </task>
+    <task id="LOCAL-00014" summary="image upload and display for hotels and rooms">
+      <created>1609669760628</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609669760628</updated>
+    </task>
+    <task id="LOCAL-00015" summary="image gallery added">
+      <created>1609679128424</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609679128424</updated>
+    </task>
+    <task id="LOCAL-00016" summary="site setting model added">
+      <created>1609698773676</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609698773676</updated>
+    </task>
+    <task id="LOCAL-00017" summary="model relationships added">
+      <created>1609701782363</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609701782363</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix category&lt;-&gt;model relationship">
+      <created>1609746115625</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609746115625</updated>
+    </task>
+    <task id="LOCAL-00019" summary="admin navigations now have active effect">
+      <created>1609749046446</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1609749046446</updated>
+    </task>
+    <task id="LOCAL-00020" summary="nested relationships ,category &lt;-&gt; subcategories">
+      <created>1609864754017</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1609864754017</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Home page setting meta tags">
+      <created>1609877555758</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1609877555758</updated>
+    </task>
+    <task id="LOCAL-00022" summary="using Jetstream user profile in the project">
+      <created>1609981530399</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1609981530399</updated>
+    </task>
+    <task id="LOCAL-00023" summary="about us ,contact ,references and faq pages added">
+      <created>1610127318009</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1610127318009</updated>
+    </task>
+    <task id="LOCAL-00024" summary="contact form added">
+      <created>1610145174668</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1610145174668</updated>
+    </task>
+    <task id="LOCAL-00025" summary="home page now is dynamic">
+      <created>1610187336588</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610187336588</updated>
+    </task>
+    <task id="LOCAL-00026" summary="hotels page added">
+      <created>1610200219214</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1610200219214</updated>
+    </task>
+    <task id="LOCAL-00027" summary="hotel rooms and room detail pages added">
+      <created>1610207581123</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1610207581123</updated>
+    </task>
+    <task id="LOCAL-00028" summary="hotel lists from categories in the nav-bar added">
+      <created>1610211274013</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1610211274013</updated>
+    </task>
+    <task id="LOCAL-00029" summary="show hotels in home page">
+      <created>1610214208879</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1610214208879</updated>
+    </task>
+    <task id="LOCAL-00030" summary="rooms now have image slide">
+      <created>1610303782596</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1610303782596</updated>
+    </task>
+    <task id="LOCAL-00031" summary="bug fix in hotel add/edit , comment and overview section added to hotel detail pages">
+      <created>1610391779480</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1610391779480</updated>
+    </task>
+    <task id="LOCAL-00032" summary="hotel reviews , user reviews , admin reviews CRUD added">
+      <created>1610412010929</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1610412010929</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update 1.1">
+      <created>1610412060177</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1610412060177</updated>
+    </task>
+    <task id="LOCAL-00034" summary="admin/user reservations CRUD">
+      <created>1610501170676</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1610501170676</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Frequently Asked Question CRUD/page added">
+      <created>1610558950089</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1610558950089</updated>
+    </task>
+    <task id="LOCAL-00036" summary="customers now can rate hotels">
+      <created>1610841811217</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1610841811217</updated>
+    </task>
+    <task id="LOCAL-00037" summary="slider now show random hotels , adjustments on home page">
+      <created>1610886470126</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1610886470127</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fixing header image and links for user and about us pages">
+      <created>1610892318442</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1610892318442</updated>
+    </task>
+    <task id="LOCAL-00039" summary="user , admin registration pages added">
+      <created>1610915844857</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1610915844857</updated>
+    </task>
+    <task id="LOCAL-00040" summary="user roles added , normal users can't reach admin panel anymore">
+      <created>1610915898742</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1610915898742</updated>
+    </task>
+    <task id="LOCAL-00041" summary="User Role management">
+      <created>1610936688880</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1610936688880</updated>
+    </task>
+    <task id="LOCAL-00042" summary="some css adjustments , fixing footer links">
+      <created>1610984688696</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1610984688696</updated>
+    </task>
+
+    <task id="LOCAL-00043" summary="rooms no longer can be reserved in already taken dates">
+      <created>1611171984600</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1611171984600</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
+
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+
+    <MESSAGE value="fix category&lt;-&gt;model relationship" />
+
+    <MESSAGE value="admin navigations now have active effect" />
+    <MESSAGE value="nested relationships ,category &lt;-&gt; subcategories" />
+    <MESSAGE value="Home page setting meta tags" />
+    <MESSAGE value="using Jetstream user profile in the project" />
+    <MESSAGE value="about us ,contact ,references and faq pages added" />
+    <MESSAGE value="contact form added" />
+    <MESSAGE value="home page now is dynamic" />
+    <MESSAGE value="hotels page added" />
+    <MESSAGE value="hotel rooms and room detail pages added" />
+    <MESSAGE value="hotel lists from categories in the nav-bar added" />
+    <MESSAGE value="show hotels in home page" />
+    <MESSAGE value="rooms now have image slide" />
+    <MESSAGE value="bug fix in hotel add/edit , comment and overview section added to hotel detail pages" />
+    <MESSAGE value="hotel reviews , user reviews , admin reviews CRUD added" />
+    <MESSAGE value="update 1.1" />
+    <MESSAGE value="admin/user reservations CRUD" />
+    <MESSAGE value="Frequently Asked Question CRUD/page added" />
+    <MESSAGE value="customers now can rate hotels" />
+    <MESSAGE value="slider now show random hotels , adjustments on home page" />
+    <MESSAGE value="fixing header image and links for user and about us pages" />
+    <MESSAGE value="user , admin registration pages added" />
+    <MESSAGE value="user roles added , normal users can't reach admin panel anymore" />
+    <MESSAGE value="User Role management" />
+    <MESSAGE value="some css adjustments , fixing footer links" />
+
+    <option name="LAST_COMMIT_MESSAGE" value="some css adjustments , fixing footer links" />
+
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="361" key="#SQL_Dialects" timestamp="1608927306824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1608927306824" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608927564643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608927564643" />
+    <state x="1160" y="255" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1610911413793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1160" y="255" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610911413793" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1611151388410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611151388410" />
+    <state x="612" y="362" width="604" height="205" key="Github.ShareDialog" timestamp="1606473260440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="362" width="604" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606473260440" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1611073389648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611073389648" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1611073389648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611073389648" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1611073389647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611073389647" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1611073389648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611073389648" />
+    <state x="703" y="242" key="NewPhpClassDialog" timestamp="1609980531015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="242" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609980531015" />
+    <state x="907" y="523" key="NewPhpFileDialog" timestamp="1610933234498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="907" y="523" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610933234498" />
+    <state x="721" y="222" key="RollbackChangesDialog" timestamp="1608839940481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608839940481" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1606905006129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606905006129" />
+
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1611171986060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611171986060" />
+
+    <state x="540" y="174" key="com.intellij.database.dbimport.ImportDialog" timestamp="1610125673960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610125673960" />
+    <state x="861" y="253" width="438" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1606474735909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="253" width="438" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606474735909" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610397566269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610397566269" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606471032384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606471032384" />
+    <state x="616" y="242" key="run.anything.popup" timestamp="1611169176335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611169176335" />
+  </component>
+</project>
