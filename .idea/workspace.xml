@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -10,53 +13,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-
     <list default="true" id="70e97b46-ec3a-4337-9c0b-bd8a8a0aa572" name="Default Changelist" comment="User Role management">
-      <change afterPath="$PROJECT_DIR$/public/assets/css/hotel-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/demo/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/dist/css/hotel-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/dist/js/hotel-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/dist/js/hotel-datepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/js/hotel-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_mq.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel-datepicker-4.0.0/src/sass/hotel-datepicker.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/css/New Text Document.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/css/hotel-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/js/New Text Document.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/js/fecha.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/hotel_picker/js/hotel-datepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hotels/Dolor ratione in qua/Iste delectus nulla/1611167791.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hotels/Ipsum culpa Nam of/NO-14/1611169284.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hotels/Ipsum culpa Nam of/NO-14/1611169300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/hotel-datepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home/index2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/311a9e40-dd61-4923-991c-862045e582f2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/311a9e40-dd61-4923-991c-862045e582f2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/project2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Reservation.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Reservation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Room.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Room.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/_sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/_sidebar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home/room_detail.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/room_detail.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home/user/user_reservations.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/user/user_reservations.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/base.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/base.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +56,9 @@
       </set>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
@@ -124,7 +92,6 @@
       <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
       <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
-      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
       <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
@@ -137,11 +104,9 @@
       <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
       <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
-      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
-      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
       <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
@@ -155,7 +120,6 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
       <path value="$PROJECT_DIR$/vendor/symfony/routing" />
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
       <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
@@ -205,14 +169,12 @@
       <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
       <path value="$PROJECT_DIR$/vendor/laravel/jetstream" />
       <path value="$PROJECT_DIR$/vendor/laravel/fortify" />
-      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
       <path value="$PROJECT_DIR$/vendor/facade/ignition" />
       <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
       <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
       <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
       <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
-      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
       <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
       <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
       <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
@@ -224,6 +186,17 @@
       <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-editor" />
       <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables" />
       <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-fractal" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kQZnckmEJuz3I6PEtQHXqrgYFn" />
@@ -238,22 +211,25 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/home" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\home" />
       <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\home\user" />
       <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\admin" />
       <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\layouts" />
     </key>
-
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Laravel\project2\resources\views\home" />
       <recent name="C:\xampp\htdocs\Laravel\project2\storage\app\public" />
@@ -330,10 +306,10 @@
       <workItem from="1611062916336" duration="1600000" />
       <workItem from="1611069290933" duration="4067000" />
       <workItem from="1611151382233" duration="8000" />
-
       <workItem from="1611152586059" duration="20004000" />
       <workItem from="1611186529243" duration="8607000" />
-
+      <workItem from="1649095587973" duration="1015000" />
+      <workItem from="1649096724615" duration="1919000" />
     </task>
     <task id="LOCAL-00001" summary="integrating bootstrap template into laravel project">
       <created>1606471571832</created>
@@ -629,7 +605,6 @@
       <option name="project" value="LOCAL" />
       <updated>1610984688696</updated>
     </task>
-
     <task id="LOCAL-00043" summary="rooms no longer can be reserved in already taken dates">
       <created>1611171984600</created>
       <option name="number" value="00043" />
@@ -638,7 +613,6 @@
       <updated>1611171984600</updated>
     </task>
     <option name="localTasksCounter" value="44" />
-
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,16 +628,13 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-
     <MESSAGE value="fix category&lt;-&gt;model relationship" />
-
     <MESSAGE value="admin navigations now have active effect" />
     <MESSAGE value="nested relationships ,category &lt;-&gt; subcategories" />
     <MESSAGE value="Home page setting meta tags" />
@@ -688,88 +659,6 @@
     <MESSAGE value="user roles added , normal users can't reach admin panel anymore" />
     <MESSAGE value="User Role management" />
     <MESSAGE value="some css adjustments , fixing footer links" />
-
     <option name="LAST_COMMIT_MESSAGE" value="some css adjustments , fixing footer links" />
-
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="336" y="361" key="#SQL_Dialects" timestamp="1608927306824">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="336" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1608927306824" />
-    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608927564643">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608927564643" />
-    <state x="1160" y="255" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1610911413793">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1160" y="255" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610911413793" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1611151388410">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611151388410" />
-    <state x="612" y="362" width="604" height="205" key="Github.ShareDialog" timestamp="1606473260440">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="612" y="362" width="604" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606473260440" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1611073389648">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611073389648" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1611073389648">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611073389648" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1611073389647">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611073389647" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1611073389648">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611073389648" />
-    <state x="703" y="242" key="NewPhpClassDialog" timestamp="1609980531015">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="703" y="242" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609980531015" />
-    <state x="907" y="523" key="NewPhpFileDialog" timestamp="1610933234498">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="907" y="523" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610933234498" />
-    <state x="721" y="222" key="RollbackChangesDialog" timestamp="1608839940481">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="721" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608839940481" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1606905006129">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606905006129" />
-
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1611171986060">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611171986060" />
-
-    <state x="540" y="174" key="com.intellij.database.dbimport.ImportDialog" timestamp="1610125673960">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="540" y="174" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610125673960" />
-    <state x="861" y="253" width="438" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1606474735909">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="861" y="253" width="438" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606474735909" />
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610397566269">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610397566269" />
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606471032384">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606471032384" />
-    <state x="616" y="242" key="run.anything.popup" timestamp="1611169176335">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611169176335" />
   </component>
 </project>
