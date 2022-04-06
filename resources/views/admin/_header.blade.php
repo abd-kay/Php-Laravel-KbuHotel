@@ -74,7 +74,7 @@
                 </div>
                 <button type="button" class="nav-link ml-10" id="apps_modal_btn" data-toggle="modal" data-target="#appsModal"><i class="ik ik-grid"></i></button>
                 <div class="dropdown">
-                    <a class="dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img class="avatar" src="{{\Illuminate\Support\Facades\Storage::url(Auth()->user()->profile_photo_path)}}" alt=""></a>
+                    <a class="dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
                         <a class="dropdown-item" href="{{route('admin_user_edit',['id'=>Auth()->id()])}}"><i class="ik ik-user dropdown-icon"></i> Profile</a>
                         <a class="dropdown-item" href="#"><i class="ik ik-settings dropdown-icon"></i> Settings</a>

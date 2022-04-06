@@ -15,13 +15,12 @@
   <component name="ChangeListManager">
     <list default="true" id="70e97b46-ec3a-4337-9c0b-bd8a8a0aa572" name="Default Changelist" comment="User Role management">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/311a9e40-dd61-4923-991c-862045e582f2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/311a9e40-dd61-4923-991c-862045e582f2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/_header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +308,11 @@
       <workItem from="1611152586059" duration="20004000" />
       <workItem from="1611186529243" duration="8607000" />
       <workItem from="1649095587973" duration="1015000" />
-      <workItem from="1649096724615" duration="1919000" />
+      <workItem from="1649096724615" duration="8267000" />
+      <workItem from="1649195919752" duration="1440000" />
+      <workItem from="1649200664425" duration="9000" />
+      <workItem from="1649201822317" duration="4126000" />
+      <workItem from="1649242144302" duration="3563000" />
     </task>
     <task id="LOCAL-00001" summary="integrating bootstrap template into laravel project">
       <created>1606471571832</created>

@@ -53,9 +53,8 @@ Route::post('hotel/{hotel_id}/room/{room_id}/add_reservation',[HomeController::c
 
 
 //admin routes
-Route::middleware('auth')->prefix('admin')->group(function () {
+Route::prefix('admin')->group(function () {
 
-    Route::middleware('admin')->group(function () {
 
 
         Route::get('/', [App\Http\Controllers\Admin\HomeController::class, 'index'])->name('admin'); // dashboard , middleware: the page can't be reached unless the user is auth
@@ -177,7 +176,7 @@ Route::middleware('auth')->prefix('admin')->group(function () {
             Route::get('User_role_delete/{user_id}/{role_id}', [\App\Http\Controllers\Admin\UserController::class, 'User_role_delete'])->name('admin_user_role_delete');
         });
 
-    });
+
 });
 
 Route::middleware('auth')->prefix('_user')->namespace('_user')->group(function (){
